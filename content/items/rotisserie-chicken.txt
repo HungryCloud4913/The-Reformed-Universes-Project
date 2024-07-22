@@ -1,0 +1,4 @@
+type: material
+name: Rotisserie Chicken
+description: Who doesn't enjoy a good rotisserie huh?
+colour: #E69E47

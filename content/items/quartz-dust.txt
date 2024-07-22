@@ -1,0 +1,4 @@
+type: material
+name: Quartz Dust
+description: A large amount of dust from crushed up quartz mined from the ground of Trafill.
+colour: #8F949E

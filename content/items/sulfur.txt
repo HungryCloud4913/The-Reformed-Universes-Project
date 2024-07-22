@@ -1,0 +1,4 @@
+type: material
+name: Sulfur
+description: A spare material created from the seperation of sulfur and oxygen.
+colour: #9D9D5D

@@ -1,0 +1,4 @@
+type: material
+name: Silica Sheet
+description: A sheet of silica modified from silicon for use as a ceramic material.
+colour: #94969B

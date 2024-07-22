@@ -1,0 +1,4 @@
+type: material
+name: Rutile
+description: Rutile is a crystal material created by the volcanic planet of Trafill. However the Trafill created rutile has somewhat metallic and ceramic properties that are used appropriately
+colour: #9D8989
