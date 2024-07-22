@@ -1,4 +1,0 @@
-type: material
-name: Titanium
-description: A dense metal found on the planet Trafill. This titanium is the main metallic building resource of Trafill
-colour: #9D9389

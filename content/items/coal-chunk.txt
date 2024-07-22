@@ -1,4 +1,0 @@
-type: material
-name: Coal Chunk
-description: A more dense form of coal used for fuel, production, and ammunition.
-colour: #2A2A2A

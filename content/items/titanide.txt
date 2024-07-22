@@ -1,4 +1,0 @@
-type: material
-name: Titanide
-description: Titanide is a material made from the reaction of pure hydrogen and titanium in a superheated container. This material has very valuable metallic and resitant properties so it is mainly used for the creation of defensive structures
-colour: #FFFFD6
