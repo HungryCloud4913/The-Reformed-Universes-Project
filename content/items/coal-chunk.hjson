@@ -1,0 +1,6 @@
+type: material
+name: Coal Chunk
+description: A more dense form of coal used for fuel, production, and ammunition.
+explosiveness: 0.4
+flammability: 1.2
+color: 2A2A2A
